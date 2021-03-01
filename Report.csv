@@ -1,0 +1,5 @@
+Statistic Measure 	Decision Tree	Naive Bayes	LinearSVC	KNN
+Accuracy	0.9739	0.9346	0.9762	0.9754
+Precision	0.1765	0.0495	0.0	0.9754
+Recall	0.5117	0.5257	0.5	0.5167
+F-Measure	0.9644	0.9447	0.9645	0.9656
